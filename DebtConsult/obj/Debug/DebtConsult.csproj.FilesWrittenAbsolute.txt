@@ -1,0 +1,8 @@
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/obj/Debug/DebtConsult.MainForm.resources
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/bin/Debug/DebtConsult.exe.config
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/bin/Debug/DebtConsult.pdb
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/bin/Debug/DebtConsult.exe
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/obj/Debug/DebtConsult.exe
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/obj/Debug/DebtConsult.pdb
+/media/dmitry/BE10E44C10E40D69/Software/DebtConsult/DebtConsult/bin/Debug/Microsoft.Office.Interop.Word.dll

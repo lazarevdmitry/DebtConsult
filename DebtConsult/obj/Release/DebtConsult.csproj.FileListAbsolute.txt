@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\bin\Release\DebtConsult.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\bin\Release\DebtConsult.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\obj\Release\DebtConsult.MainForm.resources
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\obj\Release\DebtConsult.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\obj\Release\DebtConsult.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\DebtConsult\DebtConsult\obj\Release\DebtConsult.csprojResolveAssemblyReference.cache
